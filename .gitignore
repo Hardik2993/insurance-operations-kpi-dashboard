@@ -1,0 +1,19 @@
+# Tableau packaged workbooks and extracts
+*.twbx
+*.hyper
+*.tde
+
+# Database backups and credentials
+*.bak
+.env
+credentials.*
+
+# Python and notebook artifacts
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local operating-system files
+.DS_Store
+Thumbs.db
+

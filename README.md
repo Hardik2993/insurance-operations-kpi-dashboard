@@ -4,7 +4,11 @@ An end-to-end analytics portfolio project that uses SQL Server and a Tableau-rea
 
 > All records are synthetic. No employer, client, employee, or production-system data is included.
 
-![Insurance Operations KPI Summary](dashboard/excel_kpi_summary_preview.png)
+## Interactive Tableau Dashboard
+
+![Insurance Operations KPI Dashboard](dashboard/tableau_kpi_dashboard.png)
+
+[Download the interactive Tableau packaged workbook](dashboard/Insurance_Operations_KPI_Dashboard.twbx)
 
 ## Business Objective
 

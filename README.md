@@ -60,7 +60,7 @@ The synthetic dataset contains 1,800 completed work orders from January 2025 thr
 ## Tools and Skills Demonstrated
 
 - Microsoft SQL Server and SSMS
-- Tableau-ready data modeling
+- Tableau Desktop dashboard design and interactive filtering
 - Excel-based validation and KPI preview
 - KPI definition and metric governance
 - Data-quality testing
@@ -73,6 +73,8 @@ The synthetic dataset contains 1,800 completed work orders from January 2025 thr
 ```text
 insurance-operations-kpi-dashboard/
 ├── dashboard/
+│   ├── Insurance_Operations_KPI_Dashboard.twbx
+│   ├── tableau_kpi_dashboard.png
 │   ├── excel_kpi_summary_preview.png
 │   └── tableau_dashboard_build_guide.md
 ├── data/
